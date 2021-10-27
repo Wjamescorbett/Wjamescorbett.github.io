@@ -1,0 +1,150 @@
+
+.wrapper{
+    width: 1080px;
+    height: 900px;
+    background-color: darkblue;
+    margin: auto;
+}
+
+.maincontent{
+    width: 1070px;
+    height: 900px;
+    background-color: black;
+    margin: auto;
+}
+
+.maincontenttop{
+    height: 615px;
+    background-color:black;
+}
+
+.navbar{
+    height: 47px;
+    background-color: grey;
+    background-image: linear-gradient(grey,darkblue);
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbarlist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+
+.navbarlistmid{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    color: black;
+}
+
+.midlist{
+    margin-right: 15px;
+}
+
+.icon{
+    width: 40px;
+    height: 35px;
+    margin-top: 16px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+.midrow{
+    width: 1070px;
+    height: 250px;
+    background-image: linear-gradient(grey,black);
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.midrowtextbox{
+    width: 680px;
+    height: 100px;
+    padding: 20px;
+    margin-right: 150px;
+}
+
+.midrowheadertext{
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+
+.midrowtext{
+    color: white;
+    font-family: sans-serif;
+}
+
+
+
+.bottomcontentheader{
+    width: 1070px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.bottomheader{
+    width: 100px;
+    height: 20px;
+    margin: 0px;
+    color: blue;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.viewprojects{
+    width: 180px;
+    height: 100px;
+    margin-top: 35px;
+    margin-right: 20px;
+    color: blue;
+    font-style: italic;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.bottomboxesbox{
+    width: 1070px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.bottomcontentboxes{
+    width: 260px;
+    height: 300px;
+    margin-right: 5px;
+}
+
+.bottompics{
+    width: 250px;
+    border: 5px solid grey;
+}
+
+.bottomcontentboxheader{
+    color: blue;
+    margin: 0px;
+    margin-top: 5px;
+    font-family: serif;
+}
+
+.lastp{
+    color: white;
+    margin: 0px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
