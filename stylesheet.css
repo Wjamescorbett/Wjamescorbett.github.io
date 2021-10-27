@@ -26,6 +26,9 @@
     justify-content: space-between;
 }
 
+.mainpic{
+    border: 3px solid grey;
+}
 .navbarlist{
     display: flex;
     justify-content: space-between;
@@ -132,7 +135,7 @@
 
 .bottompics{
     width: 250px;
-    border: 5px solid grey;
+    border: 3px solid grey;
 }
 
 .bottomcontentboxheader{
